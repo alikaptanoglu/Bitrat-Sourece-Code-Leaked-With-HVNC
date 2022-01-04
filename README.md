@@ -1,6 +1,6 @@
 ![image](https://user-images.githubusercontent.com/93733605/141329232-b556cc13-2dd8-4cf7-ae64-1a502140891c.png)
 # Bitrat
-Bitrat is a Remote Access Tool (RAT) designed to remotely monitor and control other computers through a secure encrypted connection
+Bitrat is a Remote Access Tool (RAT) designed to remotely monitor and control other computers through a secure encrypted connection WITH HVNC WORK BRAVE EDGE CHROME OPERA
 
 # Included projects
 ##### This project includes the following
